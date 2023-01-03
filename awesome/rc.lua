@@ -318,7 +318,7 @@ globalkeys = gears.table.join(
     awful.key({ modkey,  "Shift"},            "s",     function () awful.util.spawn("spotify") end,
               {description = "spotify music player", group = "apps"}),
 
-    awful.key({ modkey },            "e",     function () awful.util.spawn("nemo") end,
+    awful.key({ modkey },            "e",     function () awful.util.spawn("thunar") end,
               {description = "file manager", group = "apps"}),
 
     awful.key({ modkey },            "l",     function () awful.util.spawn("lxsession-logout") end,
