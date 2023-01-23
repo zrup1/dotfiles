@@ -1,0 +1,12 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "JetBrainsMono 10";
+ combi-modi: "window,drun,ssh";
+ }
+//@theme "~/.config/rofi/themes/center.rasi"
+
+//@theme "/usr/share/rofi/themes/dmenu.rasi"
+//@theme "/home/valentin/.config/rofi/themes/my-center.rasi"
+//@theme "/home/valentin/.config/rofi/themes/my-dmenu.rasi"
+//@theme "/home/valentin/.config/rofi/themes/my-sidebar.rasi"
+@theme "/home/valentin/.config/rofi/themes/my-dmenu.rasi"
