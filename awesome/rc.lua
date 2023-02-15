@@ -312,13 +312,13 @@ globalkeys = gears.table.join(
     awful.key({ modkey },            "s",     function () awful.util.spawn("rofi -show drun") end,
               {description = "run prompt", group = "launcher"}),
 
-    awful.key({ modkey },            "b",     function () awful.util.spawn("librewolf") end,
+    awful.key({ modkey },            "b",     function () awful.util.spawn("brave") end,
               {description = "librewolf browser", group = "apps"}),
 
     awful.key({ modkey,  "Shift"},            "s",     function () awful.util.spawn("spotify") end,
               {description = "spotify music player", group = "apps"}),
 
-    awful.key({ modkey },            "e",     function () awful.util.spawn("nemo") end,
+    awful.key({ modkey },            "e",     function () awful.util.spawn("thunar") end,
               {description = "file manager", group = "apps"}),
 
     awful.key({ modkey },            "l",     function () awful.util.spawn("lxsession-logout") end,
