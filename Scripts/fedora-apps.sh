@@ -1,0 +1,1 @@
+sudo dnf update && sudo dnf install git opendoas zsh neovim man gnome-console gnome-tweaks 

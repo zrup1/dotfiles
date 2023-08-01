@@ -1,0 +1,1 @@
+paru -S xfce4-power-manager lxsession discord spotify librewolf rofi neovim opendoas flameshot kitty zsh zsh-theme-powerlevel10k-git gedit man gnome-disk-utility flatpak flatseal nitrogen pcmanfm fileroller pnmixer neofetch lightdm lightdm-webkit-theme-aether materia-theme lxappearance network-manager-applet qt5-styleplugins papirus-icon-theme xcursor-breeze
