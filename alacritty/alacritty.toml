@@ -1,0 +1,53 @@
+[colors.bright]
+black = "#545454"
+blue = "#94bff3"
+cyan = "#93e0e3"
+green = "#8ae234"
+magenta = "#b294bb"
+red = "#fc5454"
+white = "#ffffff"
+yellow = "#fce94f"
+
+[colors.normal]
+black = "#3f3f3f"
+blue = "#0072ff"
+cyan = "#00c1e4"
+green = "#71f79f"
+magenta = "#d400dc"
+red = "#ed254e"
+white = "#dcdccc"
+yellow = "#fadd00"
+
+[colors.primary]
+background = "#101013"
+foreground = "#fcfcfc"
+
+[cursor.style]
+blinking = "Never"
+shape = "Beam"
+
+[font]
+size = 11.0
+
+[font.bold]
+family = "MesloLGLNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[font.italic]
+family = "MesloLGLNerdFont"
+style = "Italic"
+
+[font.normal]
+family = "MesloLGLNerdFont"
+style = "Regular"
+
+[scrolling]
+history = 50000
+
+[window]
+opacity = 0.85
+blur = true
