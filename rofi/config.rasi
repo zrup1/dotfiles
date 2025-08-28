@@ -1,0 +1,13 @@
+/** Basic config file **/
+
+configuration {
+  show-icons: false;
+  icon-theme: "Papirus";
+  display-drun: "";
+  display-window: "﩯 ";
+  display-combi: "  ";
+}
+//@theme "thems/catppuccin-mocha.rasi"
+//@theme "/home/vali/.config/rofi/themes/rofi.rasi"
+//@theme "/home/vali/.config/rofi/themes/my-center.rasi"
+@theme "/home/vali/.config/rofi/themes/spotlight-dark.rasi"
