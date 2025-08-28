@@ -3,7 +3,8 @@ if status is-interactive
 end
 set fish_greeting
 alias vim="nvim"
-alias update="paru -Syyu"
+alias vi="nvim"
+alias nano="nvim"
 alias ro="setxkbmap -layout ro"
 alias us="setxkbmap -layout us"
 fish_add_path /home/vale/.spicetify
