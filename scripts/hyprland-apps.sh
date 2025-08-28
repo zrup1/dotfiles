@@ -1,1 +1,0 @@
-paru -S dunst pipewire wireplumber xdg-desktop-portal-hyprland hyprpolkitagent qt5-wayland qt6-wayland noto-fonts hyprpicker hypridle hyprland-qt-support hyprcursor hyprutils aquamarine hyprgraphics hyprland-qtutils nwg-look qt5ct qt6ct qt4ct librewolf discord steam neovim man cat wget base-devel spotify-launcher waybar thunar fileroller hyprlock flameshot
